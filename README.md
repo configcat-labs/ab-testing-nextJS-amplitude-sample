@@ -1,5 +1,3 @@
-Read.me template:
-
 # Books
 
 
