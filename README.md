@@ -2,9 +2,8 @@ Read.me template:
 
 # Books
 
-#### (Optional) In case the blog post is already published, please add: [Read the blog post here](https://configcat.com/blog/)
 
-This repository contains the source code for the 'Books' app in the article: Implementing A/B testing in a Next.js app with [ConfigCat](https://configcat.com) & Amplitude.
+This repository contains the source code for the 'Books' app in the article: Implementing A/B testing in a Next.js app with [ConfigCat](https://configcat.com) & Amplitude. [Read the blog post here](https://configcat.com/blog/2022/09/02/implementing-abtesting-nextjs-amplitude)
 
 
 ![bookpair](https://user-images.githubusercontent.com/71462377/185446228-4da62ca4-a84e-4132-814c-21efa238006e.png)
