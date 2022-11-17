@@ -15,7 +15,7 @@ If a user clicks the 'Download PDF' button, the app sends data to Amplitude so w
 If you want to run the app on your development machine, you'll need to have [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/en/) installed.
 
 Follow these steps to get the app running on your machine:
-- Click on the green 'Code' button in the repository's page and copy the URL in the text field that pops up.   
+- Click on the green "Code" button in the repository's page and copy the URL in the text field that pops up.   
 - Open the command line terminal on your computer.
 - Run `git clone https://github.com/configcat-labs/ab-testing-nextJS-amplitude-sample.git`.
 - Navigate into the folder 'ab-testing-nextJS-amplitude-sample'.
